@@ -121,9 +121,7 @@ This project is licensed under the MIT License.
 
 🙋‍♂️ Author
 Arman Khan
-📧 [your-email@example.com]
-🔗 LinkedIn
-🔗 GitHub
+📧 [ak9934816676@gmail.com]
 
 🌟 Support
 If you like this project, ⭐️ star the repo
